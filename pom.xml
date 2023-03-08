@@ -53,6 +53,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>javaspringapp-naveen</finalName>
 	</build>
 	<repositories>
 		<repository>
